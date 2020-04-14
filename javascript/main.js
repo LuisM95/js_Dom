@@ -89,3 +89,5 @@ function  get_ancestor(ancestor,level){
 }
 
 console.log("Aprendiendo a usar Git");
+
+alert("Bienvenido a Git");
